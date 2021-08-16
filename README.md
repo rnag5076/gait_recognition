@@ -29,6 +29,6 @@ Methods:
 | 32*32  | 1e-4|1e-5  | V6  | 0.18  | 99.69%  |
 | 120*120  | 1e-4|1e-5  | v4+LRN  | 0.97  | 99.81%  |
 
-This the preview of the app where first you need to locate the video of the app inside your system.
+This the preview of the app where first you need to locate the video of the app inside your system and then it is going to identify the person inside the video.
 
 ![plot](./app/preview_app.png)
